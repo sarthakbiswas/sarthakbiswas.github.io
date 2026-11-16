@@ -1,0 +1,4 @@
+private/
+*.pdf
+.DS_Store
+AGENTS.md
